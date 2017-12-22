@@ -1,2 +1,2 @@
 # wowbot
-WoW Discord Bot Documentation
+Documentation will be written soon...
